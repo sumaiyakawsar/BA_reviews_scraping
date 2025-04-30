@@ -1,4 +1,3 @@
-#BA
  <h1 align="center"> BA Reviews Scraper
 
  
