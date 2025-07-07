@@ -1,9 +1,11 @@
  <h1 align="center"> BA Reviews Scraper
 
- 
+ <!--
 
  ![Created Badge](https://badges.pufler.dev/created/sumaiyakawsar/BA_reviews_scraping?&style=plastic&color=black&labelColor=1AEE0B) 
- ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/BA_reviews_scraping?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/BA_reviews_scraping?&style=plastic&color=black&labelColor=BF3F41) [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/BA_reviews_scraping.svg)](https://wakatime.com/badge/github/sumaiyakawsar/BA_reviews_scraping)
+ ![Updated Badge](https://badges.pufler.dev/updated/sumaiyakawsar/BA_reviews_scraping?&style=plastic&color=black&labelColor=0004FF) ![Visits Badge](https://badges.pufler.dev/visits/sumaiyakawsar/BA_reviews_scraping?&style=plastic&color=black&labelColor=BF3F41)-->
+ 
+ [![wakatime](https://wakatime.com/badge/github/sumaiyakawsar/BA_reviews_scraping.svg)](https://wakatime.com/badge/github/sumaiyakawsar/BA_reviews_scraping)
 ![Reason Badge](https://img.shields.io/badge/Virtual_Internship_Project-10b981?style=plastic)
 
 </h1>
